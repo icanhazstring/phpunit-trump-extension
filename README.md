@@ -7,7 +7,7 @@ is because if you don't have tests, there is not possibility they could fail rig
 
 You can install Trump Extension via [Composer](http://getcomposer.org)
 
-    composer require icanhazstring/phpunit-trump-extension:dev-master
+    composer require icanhazstring/phpunit-trump-extension:dev-main
 
 ## Usage
 
