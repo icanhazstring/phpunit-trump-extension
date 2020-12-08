@@ -1,7 +1,7 @@
 # Phpunit Trump Extension  
 
 The "Trump Extension" will act as if there are no tests. This
-is because if you don't have tests, there is not possibility they could fail right?
+is because if you don't have tests, they can't fail right?
 
 ## Installation
 
