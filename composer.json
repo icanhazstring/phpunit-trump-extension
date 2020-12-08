@@ -1,0 +1,14 @@
+{
+  "name": "icanhazstring/phpunit-trump-extension",
+  "type": "library",
+  "description": "Test as if there are no tests",
+  "license": "MIT",
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "icanhazstring\\TrumpExtension\\": "src/"
+    }
+  }
+}
